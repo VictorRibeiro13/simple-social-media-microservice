@@ -1,0 +1,17 @@
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net7.0/Post.Cmd.Domain.deps.json
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net7.0/Post.Cmd.Domain.dll
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net7.0/Post.Cmd.Domain.pdb
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net7.0/CQRS.Core.dll
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net7.0/Post.Common.dll
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net7.0/CQRS.Core.pdb
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net7.0/Post.Common.pdb
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/Post.Cmd.Domain.csproj.AssemblyReference.cache
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/Post.Cmd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/Post.Cmd.Domain.AssemblyInfoInputs.cache
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/Post.Cmd.Domain.AssemblyInfo.cs
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/Post.Cmd.Domain.csproj.CoreCompileInputs.cache
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/Post.Cmd.Domain.csproj.CopyComplete
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/Post.Cmd.Domain.dll
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/refint/Post.Cmd.Domain.dll
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/Post.Cmd.Domain.pdb
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/ref/Post.Cmd.Domain.dll

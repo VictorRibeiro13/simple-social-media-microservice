@@ -1,8 +1,30 @@
 {
   "version": 2,
-  "dgSpecHash": "jjLVl6H1R1KZlhWBs25S6lOwWA8Y9BWuHH37TazCwuap31qRmQR1GWWt/oNdfJXL4XBHvYSuXC+cRR/ojQD9yA==",
+  "dgSpecHash": "dBvfYQ3yeceqYvOjLZdx1lKq0olcaWEZzfQaKMfpE58gsPCOaqiOFFJgk70k3nwW09She8nwE/4v9V7DmRGxQg==",
   "success": true,
   "projectFilePath": "/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Cmd/Post.Cmd.Infra/Post.Cmd.Infra.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/svribeiro/.nuget/packages/confluent.kafka/1.9.3/confluent.kafka.1.9.3.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/librdkafka.redist/1.9.2/librdkafka.redist.1.9.2.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/microsoft.extensions.logging.abstractions/2.0.0/microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/mongodb.bson/2.18.0/mongodb.bson.2.18.0.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/mongodb.driver/2.18.0/mongodb.driver.2.18.0.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/mongodb.driver.core/2.18.0/mongodb.driver.core.2.18.0.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/mongodb.libmongocrypt/1.6.0/mongodb.libmongocrypt.1.6.0.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/sharpcompress/0.30.1/sharpcompress.0.30.1.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/snappier/1.0.0/snappier.1.0.0.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
+    "/Users/svribeiro/.nuget/packages/zstdsharp.port/0.6.2/zstdsharp.port.0.6.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Common/bin/Debug/net7.0/Post.Common.deps.json
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Common/bin/Debug/net7.0/Post.Common.dll
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Common/bin/Debug/net7.0/Post.Common.pdb
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Common/bin/Debug/net7.0/CQRS.Core.dll
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Common/bin/Debug/net7.0/CQRS.Core.pdb
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Common/obj/Debug/net7.0/Post.Common.csproj.AssemblyReference.cache
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Common/obj/Debug/net7.0/Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Common/obj/Debug/net7.0/Post.Common.AssemblyInfoInputs.cache
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Common/obj/Debug/net7.0/Post.Common.AssemblyInfo.cs
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Common/obj/Debug/net7.0/Post.Common.csproj.CoreCompileInputs.cache
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Common/obj/Debug/net7.0/Post.Common.csproj.CopyComplete
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Common/obj/Debug/net7.0/Post.Common.dll
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Common/obj/Debug/net7.0/refint/Post.Common.dll
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Common/obj/Debug/net7.0/Post.Common.pdb
+/Users/svribeiro/git-projects/personal/simple-social-media-microservices/src/SM-Post/Post.Common/obj/Debug/net7.0/ref/Post.Common.dll

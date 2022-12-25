@@ -6,4 +6,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\CQRS-ES\CQRS.Core\CQRS.Core.csproj" />
+    <ProjectReference Include="..\..\Post.Common\Post.Common.csproj" />
+    <ProjectReference Include="..\Post.Cmd.Domain\Post.Cmd.Domain.csproj" />
+    <ProjectReference Include="..\Post.Cmd.Infra\Post.Cmd.Infra.csproj" />
+  </ItemGroup>
+
 </Project>
